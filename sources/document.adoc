@@ -1,5 +1,5 @@
 = The did:swid DID Method - v0.1 (Editors Draft)
-:docnumber: 4
+:docnumber: 5
 :edition: 1
 :revdate: 2025-09-26
 :copyright-year: 2025
@@ -12,7 +12,7 @@
 :mn-output-extensions: xml,html,pdf,rxl
 :doctype: standard
 :status: published
-:docidentifier: SWF STD-4:2025 (0.1.0)
+:docidentifier: SWF STD-5:2025 (0.1.0)
 :imagesdir: images
 :local-cache-only:
 :toc-figures: true
